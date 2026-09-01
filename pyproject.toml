@@ -1,5 +1,5 @@
 [project]
-name = "web-scraper"
+name = "web_scraper"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
